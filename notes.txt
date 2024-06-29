@@ -1,0 +1,7 @@
+git init -> Inicializa el repo local
+git branch -> Muestra ramas actuales & crea nuevas ramas
+git status -> Estatus de archivos modificados
+git checkout <nombre de la rama> -> Cambio de rama
+git checkout -b <nombre de la rama> -> crea nueva rama y cambia de una vez
+git merge <nombre de la rama> -> Une los cambios entre dos ramas 
+git push origin main -> envia los archivos de la rama main al repositorio remoto (github)
